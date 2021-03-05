@@ -6,13 +6,10 @@
 
 **Thoughts:** What should I focus on for this challenge? I know I am aiming to work on front end frameworks, so let's start there! React/Nextjs, here I come >:)
 
-**Link to work:** [Calculator App](http://www.example.com)
-
 ### Day 1: March 4, 2021 
 
-**Today's Progress**: Decided to focus on Nextjs. I will be rebuilding an app from work and would like to incorporate a frontened framework. At first I thought React but...Next won. I went through their tutorial. 
+**Today's Progress**: Decided to focus on Nextjs. I will be rebuilding an app from work and would like to incorporate a frontened framework. At first I thought React but...Next won. I went through their tutorial. I finished the following sections: Creat a Next.js App, Navigate Between Pages, and Assets, Metadata and CSS. 
 
-**Thoughts**: 
+**Thoughts**: Next.js seems really straightforward. I'm a little excited to work with it more this weekend 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
