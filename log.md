@@ -12,4 +12,14 @@
 
 **Thoughts**: Next.js seems really straightforward. I'm a little excited to work with it more this weekend 
 
+### Day 2: March 5, 2021 
 
+**Today's Progress**: Finished the Nextjs tutorial. Have a cute mini blog that can be used to make a potential side project. 
+
+**Thoughts**: Should I start a side project now or keep trucking along with some tutorials/research...? hm 
+
+### Day 3: March 6, 2021 
+
+**Today's Progress**: Went with some freeCodeCamp courses today. Nextjs is built on top of React, so I thought it would be nice to learn more React through their courses!
+
+**Thoughts**: My eyes are on the front end certificate on freeCodeCamp. Bootstrap/React/Redux, let's gooo
