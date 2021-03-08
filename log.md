@@ -23,3 +23,9 @@
 **Today's Progress**: Went with some freeCodeCamp courses today. Nextjs is built on top of React, so I thought it would be nice to learn more React through their courses!
 
 **Thoughts**: My eyes are on the front end certificate on freeCodeCamp. Bootstrap/React/Redux, let's gooo
+
+### Day 4: March 7, 2021 
+
+**Today's Progress**: Chugged along with more reach challenges on freeCodeCamp. Currently just over 50% done
+
+**Thoughts**: A little struggle to get started today, but we still made it! 
