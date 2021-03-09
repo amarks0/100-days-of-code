@@ -29,3 +29,9 @@
 **Today's Progress**: Chugged along with more reach challenges on freeCodeCamp. Currently just over 50% done
 
 **Thoughts**: A little struggle to get started today, but we still made it! 
+
+### Day 5: March 8, 2021 
+
+**Today's Progress**: Started building a simple web app using nextjs and tailwindcss. I'm thinking I may build on this as the challenge goes on. So far I am working on building an interactive/responsive side navigation bar. 
+
+**Thoughts**: Will I ever get out of tutorial hell? -_-
