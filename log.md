@@ -89,3 +89,39 @@
 **Today's Progress**: Gonna be one hunnid, I am posting this before I complete this day. BUT. I will finish at least one React challenge on freeCodeCamp. 
 
 **Thoughts**: Sheesh, I need to keep up to date with these logs and twitter haha. Backfilling 4-5 days is not the bizness
+
+### Day 15: March 16, 2021 
+
+**Today's Progress**: Here I go backfilling these logs again. Fail~. And ngl, totally did not complete the next react challenges on freeCodeCamp like I thought I would on the previous day. And I continued to not do any coding outside of work for the next 2 days. I'm in a slump!! 
+
+**Thoughts**: I guess I'm not completly off the 100 day train.. keeping up with these logs at least let me remind myself that I need to keep pushing. Almost at the 20% mark...
+
+### Day 16: March 17, 2021 
+
+**Today's Progress**: Sat with the React challenge menu up again. Still didn't do much coding outside of work... 
+
+**Thoughts**: I may need to return to tutorial hell to get more direction. I purchased a class on Udemy that will at least help me in terms of structure for this challenge. I plan to start this weekend, which is the 20-21  
+
+### Day 17: March 18, 2021 
+
+**Today's Progress**: Nothing done related to this challenge. 
+
+**Thoughts**: -_____________-
+
+### Day 18: March 19, 2021 
+
+**Today's Progress**: What a moody day. I had today off and sat down to start some coding several times but was distracted... Some self care was in order and from then on nothing really happened. Except now, where I am backfilling the last few days of non-activity. 
+
+**Thoughts**: Again, stared at the SAME REACT CHALLENGE. Haha...ha
+
+### Day 19: March 20, 2021 
+
+**Today's Progress**: Started a react bootcamp course from Udemy like I mentioned on a previous day. I figured that I need more back knowledge of React to get a full understanding. Got a good chunk done today. 
+
+**Thoughts**: Althought I've used React before, I think its good to go back to basics since I've always just jumped in first. 
+
+### Day 20: March 21, 2021 
+
+**Today's Progress**: 
+
+**Thoughts**: 
