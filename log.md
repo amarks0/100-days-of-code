@@ -122,6 +122,18 @@
 
 ### Day 20: March 21, 2021 
 
-**Today's Progress**: 
+**Today's Progress**: Continued the react bootcamp class. The first bits are more like a review more than anything. Getting that foundation set still. 
 
-**Thoughts**: 
+**Thoughts**: Maybe had less than an hour session today :/ 
+
+### Day 21: March 22, 2021 
+
+**Today's Progress**: I was pretty beat after the gym. I sat in front of freeCodeCamp and tried to get my mind right and my fingers moving. Nope. I'll make up the time tomorrow. 
+
+**Thoughts**: Meeeh. 
+
+### Day 22: March 23, 2021 
+
+**Today's Progress**: Finished another section in the react bootcamp course. Made a cute little pokemon game. Then did some react challenges on freeCodeCamp. Made up the hour from yesterday! 
+
+**Thoughts**: I'm glad I went with a course for structure. I'll definitely be done before the 100 days, but will help in later projects. Also found out about 50reactprojects.com. Inspiration for later? 
