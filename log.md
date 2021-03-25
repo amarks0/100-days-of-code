@@ -137,3 +137,10 @@
 **Today's Progress**: Finished another section in the react bootcamp course. Made a cute little pokemon game. Then did some react challenges on freeCodeCamp. Made up the hour from yesterday! 
 
 **Thoughts**: I'm glad I went with a course for structure. I'll definitely be done before the 100 days, but will help in later projects. Also found out about 50reactprojects.com. Inspiration for later? 
+
+
+### Day 23: March 24, 2021 
+
+**Today's Progress**: Started the a longer section of the course I'm working on that deals with React state. I really like freeCodeCamp, but sometimes it jumps up in terms on knowledge after each challenege and state introduction kinda got me confused. So this was nice. 
+
+**Thoughts**: Almost 25% done!
