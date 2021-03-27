@@ -144,3 +144,15 @@
 **Today's Progress**: Started the a longer section of the course I'm working on that deals with React state. I really like freeCodeCamp, but sometimes it jumps up in terms on knowledge after each challenege and state introduction kinda got me confused. So this was nice. 
 
 **Thoughts**: Almost 25% done!
+
+### Day 24: March 25, 2021 
+
+**Today's Progress**: I was planning on working on some freeCodeCamp but it became an emotional day where we almost lost a family pet. SO. didn't make any progress today, but I will make up for it tomorrow. 
+
+**Thoughts**: It really is something where emotions can knock whatever motivation you have in a whole 'nother direction...
+
+### Day 25: March 26, 2021 
+
+**Today's Progress**: Family pet okay. :) Did freeCodeCamp for an hour and then off and on inbetween DBD matches (load times are loooong)
+
+**Thoughts**: 25% done! We in here! 
