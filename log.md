@@ -156,3 +156,17 @@
 **Today's Progress**: Family pet okay. :) Did freeCodeCamp for an hour and then off and on inbetween DBD matches (load times are loooong)
 
 **Thoughts**: 25% done! We in here! 
+
+
+### Day 26: March 26, 2021 
+
+**Today's Progress**: Tbh, did not get a full hour in today, but did complete some more freeCodeCamp challenges. 
+
+**Thoughts**: I didn't do any of the bootcamp class first because I need to code out an exercise first... 
+
+
+### Day 27: March 28, 2021 
+
+**Today's Progress**: Completed a state section in the react bootcamp I'm in. It included building a simple app that had a button that generated a random number. If the number was a certain value, the button disappeared and other content took its place. 
+
+**Thoughts**: Proud of myslef for actually doing this exercise without watching or coding along with the solution first. It's easy to say "Oh yea, thats simple. You just gotta do x then y..." and then just look at the solution without actually coding out the complete solution first. Gotta work those brain muscles first ;)
