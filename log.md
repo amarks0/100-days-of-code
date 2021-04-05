@@ -169,4 +169,58 @@
 
 **Today's Progress**: Completed a state section in the react bootcamp I'm in. It included building a simple app that had a button that generated a random number. If the number was a certain value, the button disappeared and other content took its place. 
 
-**Thoughts**: Proud of myslef for actually doing this exercise without watching or coding along with the solution first. It's easy to say "Oh yea, thats simple. You just gotta do x then y..." and then just look at the solution without actually coding out the complete solution first. Gotta work those brain muscles first ;)
+**Thoughts**: Proud of myself for actually doing this exercise without watching or coding along with the solution first. It's easy to say "Oh yea, thats simple. You just gotta do x then y..." and then just look at the solution without actually coding out the complete solution first. Gotta work those brain muscles first ;)
+
+
+### Day 27: March 29, 2021 
+
+**Today's Progress**: Not much besides work programming.. 
+
+**Thoughts**: -_-
+
+
+
+### Day 28: March 30, 2021 
+
+**Today's Progress**: Not much besides work programming.. tired after teaching tabata and eas extra laxy. 
+
+**Thoughts**: Gotta continue on the react course soon. I would love to finally complete a Udemy class, ha! 
+
+
+
+### Day 29: March 31, 2021 
+
+**Today's Progress**: Not much besides work programming..
+
+**Thoughts**: -____-
+
+
+
+### Day 30: April 1, 2021 
+
+**Today's Progress**: Not much besides work programming..
+
+**Thoughts**: -__-
+
+
+### Day 31: April 2, 2021 
+
+**Today's Progress**: Started the Roll Dice exercise on the react bootcamp. Deciding on whether or not I want to code along.. but I did build the project and made my core component structure. Did some research as well on font awesome, since this exercise uses the CDN for FA 4... only to find out the CDN does not work anymore and that I'll have to use the react-fontawesome package install instead. Hurraaayy
+
+**Thoughts**: I was really trying to make the fontawesome thing work, but nah son. you ain't getting my email JUST so I can get the newest CDN link. pfft
+
+
+### Day 31: April 3, 2021 
+
+**Today's Progress**: 
+
+**Thoughts**: TRying to retro fit new tech to older versions of module packages is frustrating, but it definitely helps me learn more. Can't just copy and paste -- gottta put in a little extra time to find the newer versions of commands and such
+
+
+
+### Day 31: April 4, 2021 
+
+**Today's Progress**: Continued to try to match react fontawesome to the react bootcamp class that I am taking. All done with the dice exercise besides the animation. The CSS animation was not the main idea for the exercise, so I am okay with moving on for now
+
+**Thoughts**: This reminds me of soime CSS challenges I wanted to do. What was it called...? 30 days of CSS? CSS Pie? Worth looking up later! 
+
