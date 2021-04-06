@@ -224,3 +224,10 @@
 
 **Thoughts**: This reminds me of soime CSS challenges I wanted to do. What was it called...? 30 days of CSS? CSS Pie? Worth looking up later! 
 
+
+### Day 32: April 5, 2021 
+
+**Today's Progress**: Worked on some freeCodeCamp react challenges -- currently just less that 90% done. I also thnk I may want to start doing side applications as well. Since I was playing DBD and doing challenges in between, I think I will do a random character generator with basic perks. i think that should be fun!
+
+**Thoughts**: Almost 1/3 of the way done with the challenge :) 
+
