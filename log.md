@@ -231,3 +231,27 @@
 
 **Thoughts**: Almost 1/3 of the way done with the challenge :) 
 
+
+### Day 33: April 6, 2021 
+
+**Today's Progress**: For today, I did not do much outside of work with coding or programming. 
+
+**Thoughts**: 33% done with the challenge!
+
+### Day 34: April 7, 2021 
+
+**Today's Progress**: Played DbD while doing freeCodeCamp challenges inbetween matches. The long queue times finally have a purpose, haha. 
+
+**Thoughts**: I am backilling on April 9, so I'm not sure what day I did this, but I am done with the React portion on freeCodeCamp! On to redux!
+
+### Day 35: April 8, 2021 
+
+**Today's Progress**: Completed a section in the react bootcamp course. This one was about more state exercises with a dice roll example. I also started the next one which had examples with lottery balls. 
+
+**Thoughts**: Also did these videos/exercises between DbD matches, haha. I've found a system!! 
+
+### Day 36: April 9, 2021 
+
+**Today's Progress**: A little more work with the react course during Dbd matches~. I finished the lottery ball exercise and moved on to the next section which featured some more state exercises. 
+
+**Thoughts**: Finally Friday~
