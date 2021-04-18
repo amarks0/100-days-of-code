@@ -255,3 +255,9 @@
 **Today's Progress**: A little more work with the react course during Dbd matches~. I finished the lottery ball exercise and moved on to the next section which featured some more state exercises. 
 
 **Thoughts**: Finally Friday~
+
+### Day ???: April 18, 2021 
+
+**Today's Progress**: I plan to do some freeCodeCamp challenges for redux. Maybe even some of the personal project I started (that I totally didn't forget about...)
+
+**Thoughts**: Wow. Hello #100DaysOfCode. Its been almost 10 days of no outside work coding. Fail! haha. I decided that this hiatus will not count towards my day count.. so starting next day I code it will be continuing on starting from day 37. 0:)
